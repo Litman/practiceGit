@@ -1,1 +1,1 @@
-.ReposGit\practiceGit
+-e '.reposKuri\practiceGit' 
