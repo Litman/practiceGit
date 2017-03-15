@@ -1,5 +1,7 @@
 "github-essentials" 
 
+"\n## Description\n\n GitHub for dummies" 
+
 ##Agregando nuevos cambios para un tag
 ##Cambios para nuevo tag
 
