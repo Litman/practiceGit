@@ -1,5 +1,7 @@
 "github-essentials" 
 
+"\n## Description\n\n GitHub for dummies" 
+
 ##Agregando nuevos cambios para un tag
 ##Cambios para nuevo tag
 
@@ -20,8 +22,12 @@ Cambio Realizado 2
 
 Cambio Realizado 3
 
+
+Cambio other user
+
 Cambio Master
 
 Cambio Other user
 
 Cambio para probar una actualizacion
+
