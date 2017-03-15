@@ -6,3 +6,5 @@
 GitHUb for dummies. Learn about GitHUb one step at a time.
 Git hub for dummies
 
+More changes in GitHub
+
