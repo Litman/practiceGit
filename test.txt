@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 contenido de todo
+=======
+-e '.reposKuri\practiceGit' 
+>>>>>>> 65165125229d611574ac19cd354428ec81170b8d
